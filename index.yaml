@@ -3,9 +3,9 @@ entries:
   jx-cli:
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2021-01-29T07:55:21.146281Z"
+    created: "2021-01-29T07:59:53.835283Z"
     description: Jenkins X next gen cloud CI / CD platform for Kubernetes
-    digest: 385c9fe07fb2a0af3afec98ad02cd3be2a07eea56799c6ee2a1a7eae4bdd848b
+    digest: 2affb749aee5af46a032202089647174e6be917166c01aef2d23a45631f7d97b
     home: https://jenkins-x.io/
     icon: https://jenkins-x.github.io/jenkins-x-website/img/profile.png
     maintainers:
@@ -17,4 +17,4 @@ entries:
     urls:
     - jx-cli-3.1.145.tgz
     version: 3.1.145
-generated: "2021-01-29T07:55:21.145354Z"
+generated: "2021-01-29T07:59:53.832472Z"
