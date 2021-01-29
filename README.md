@@ -16,4 +16,4 @@ you can search the charts via:
 
 ## View the YAML
 
-You can browse the [Chart repository directly](https://jenkins-x-charts.github.io/repo/) a look at the underlying charts YAML at: [index.yaml](https://jenkins-x-charts.github.io/repo/index.yaml)
+You can browse the underlying charts YAML at: [index.yaml](index.yaml)
