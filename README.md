@@ -11,13 +11,13 @@ Please refer to Helm's [documentation](https://helm.sh/docs/) to get started.
 Once Helm is set up properly, add the repo as follows:
 
 ```bash
-helm repo add cdf https://jenkins-x-charts.github.io/repo/
+helm repo add jxgh https://jenkins-x-charts.github.io/repo/
 ```
 
 you can then do
 
 ```bash
-helm search repo tekton
+helm search repo jx-preview
 ```
 
 ## Repository
