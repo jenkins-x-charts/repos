@@ -5172,8 +5172,21 @@ entries:
     version: 0.1.4
   jxboot-helmfile-resources:
   - apiVersion: v1
+    appVersion: 1.1.388
+    created: "2024-10-18T21:50:43.079982033Z"
+    description: A Helm chart for the resources for JX Boot
+    digest: 60ceb77dbbd165ad6a5314db7f6559423f2caa9e0d3e61951965f125766c1802
+    home: https://github.com/jenkins-x-charts/jxboot-helmfile-resources
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-website/master/images/logo/jenkinsx-icon-color.svg
+    name: jxboot-helmfile-resources
+    sources:
+    - https://github.com/jenkins-x-charts/jxboot-helmfile-resources.git
+    urls:
+    - jxboot-helmfile-resources-1.1.388.tgz
+    version: 1.1.388
+  - apiVersion: v1
     appVersion: 1.1.387
-    created: "2024-10-18T17:42:03.491885873Z"
+    created: "2024-10-18T21:50:43.076961456Z"
     description: A Helm chart for the resources for JX Boot
     digest: c4677a23f4adbca683e2bad62d2f694408941f694693c1f42d0edd88169ffc0f
     home: https://github.com/jenkins-x-charts/jxboot-helmfile-resources
